@@ -6,6 +6,7 @@ Simon Mungai Njoroge
 #### BRIEF DESCRIPTION
 This is a website that allow you to get your akan name derived form the traditional naming of the people of Ghana 
 ## Contacts 
+SimonMungai@gmail.com
 # Setup/Installation Requirements
 *Clone the repository
 *Paste it on the browser

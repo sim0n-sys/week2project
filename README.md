@@ -19,7 +19,7 @@ Technologies used are as follows
 *javascript
 
 ## BDD
-This is
+This is the formular used in my css to find the names.
 Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
 
  where;

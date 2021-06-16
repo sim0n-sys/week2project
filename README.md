@@ -1,5 +1,5 @@
 ## AKAN NAMES
-Akan
+Akan Names 
 ## ATHOR
 Simon Mungai Njoroge
 
